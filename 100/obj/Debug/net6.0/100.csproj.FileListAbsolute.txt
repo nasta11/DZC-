@@ -1,0 +1,15 @@
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\bin\Debug\net6.0\100.exe
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\bin\Debug\net6.0\100.deps.json
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\bin\Debug\net6.0\100.runtimeconfig.json
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\bin\Debug\net6.0\100.dll
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\bin\Debug\net6.0\100.pdb
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\obj\Debug\net6.0\100.csproj.AssemblyReference.cache
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\obj\Debug\net6.0\100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\obj\Debug\net6.0\100.AssemblyInfoInputs.cache
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\obj\Debug\net6.0\100.AssemblyInfo.cs
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\obj\Debug\net6.0\100.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\obj\Debug\net6.0\100.dll
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\obj\Debug\net6.0\refint\100.dll
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\obj\Debug\net6.0\100.pdb
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\obj\Debug\net6.0\100.genruntimeconfig.cache
+C:\Users\Misha\Desktop\C# DZ\REPO\EXZ\100\obj\Debug\net6.0\ref\100.dll
